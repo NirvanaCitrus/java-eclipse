@@ -59,6 +59,8 @@ public class Test0919  {
 		String str2 = d.mtd();
 		
 		System.out.println("값은"+str2);
+		
+		// sample interface
 
 	}
 
